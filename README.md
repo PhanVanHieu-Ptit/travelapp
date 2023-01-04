@@ -10,3 +10,10 @@
 - Đối tượng sử dụng: Admin, đối tác và khách hàng
 ## Hình ảnh app
 
+<h1 align="center">
+  <br>
+  <a href=""><img src="" alt="Markdownify" width="200"></a>
+  <br>
+  Màn hình chính
+  <br>
+</h1>
