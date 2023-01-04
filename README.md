@@ -57,3 +57,21 @@
   Màn hình lịch sử đặt
   <br>
 </h1>
+<h1 align="center">
+  <br>
+ 
+  <a href="https://github.com/PhanVanHieu-Ptit/travelapp/blob/main2/m%C3%A0n%20h%C3%ACnh%20qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%8Bch%20v%E1%BB%A5.jpg"><img src="https://github.com/PhanVanHieu-Ptit/travelapp/blob/main2/m%C3%A0n%20h%C3%ACnh%20qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%8Bch%20v%E1%BB%A5.jpg" alt="Markdownify" width="200"></a>
+   <a href="https://github.com/PhanVanHieu-Ptit/travelapp/blob/main2/m%C3%A0n%20h%C3%ACnh%20c%E1%BA%ADp%20nh%E1%BA%ADt%20l%E1%BB%8Bch.jpg"><img src="https://github.com/PhanVanHieu-Ptit/travelapp/blob/main2/m%C3%A0n%20h%C3%ACnh%20c%E1%BA%ADp%20nh%E1%BA%ADt%20l%E1%BB%8Bch.jpg" alt="Markdownify" width="200"></a>
+  <br>
+  Màn hình quản lý dịch vụ
+  <br>
+</h1>
+<h1 align="center">
+  <br>
+ 
+  <a href="https://github.com/PhanVanHieu-Ptit/travelapp/blob/main2/m%C3%A0n%20h%C3%ACnh%20qu%E1%BA%A3n%20l%C3%BD%20%C4%91%C6%A1n%20%C4%91%E1%BA%B7t.jpg"><img src="https://github.com/PhanVanHieu-Ptit/travelapp/blob/main2/m%C3%A0n%20h%C3%ACnh%20qu%E1%BA%A3n%20l%C3%BD%20%C4%91%C6%A1n%20%C4%91%E1%BA%B7t.jpg" alt="Markdownify" width="200"></a>
+   <a href="https://github.com/PhanVanHieu-Ptit/travelapp/blob/main2/m%C3%A0n%20h%C3%ACnh%20qu%E1%BA%A3n%20l%C3%BD%20%C4%91%C6%A1n%20%C4%91%E1%BA%B7t%20-%20%C4%91%C3%A3%20x%C3%A1c%20nh%E1%BA%ADn.jpg"><img src="https://github.com/PhanVanHieu-Ptit/travelapp/blob/main2/m%C3%A0n%20h%C3%ACnh%20qu%E1%BA%A3n%20l%C3%BD%20%C4%91%C6%A1n%20%C4%91%E1%BA%B7t%20-%20%C4%91%C3%A3%20x%C3%A1c%20nh%E1%BA%ADn.jpg" alt="Markdownify" width="200"></a>
+  <br>
+  Màn hình quản lý đơn đặt
+  <br>
+</h1>
