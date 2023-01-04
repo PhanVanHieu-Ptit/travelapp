@@ -49,4 +49,11 @@
   Màn hình đặt dịch vụ
   <br>
 </h1>
-
+<h1 align="center">
+  <br>
+  <a href="https://github.com/PhanVanHieu-Ptit/travelapp/blob/main2/m%C3%A0n%20h%C3%ACnh%20l%E1%BB%8Bch%20s%E1%BB%AD%20mua%20h%C3%A0ng.jpg"><img src="https://github.com/PhanVanHieu-Ptit/travelapp/blob/main2/m%C3%A0n%20h%C3%ACnh%20l%E1%BB%8Bch%20s%E1%BB%AD%20mua%20h%C3%A0ng.jpg" alt="Markdownify" width="200"></a>
+  <a href="https://github.com/PhanVanHieu-Ptit/travelapp/blob/main2/m%C3%A0n%20h%C3%ACnh%20l%E1%BB%8Bch%20s%E1%BB%AD%20mua%20h%C3%A0n%20-%20%C4%91%C3%A3%20h%E1%BB%A7y.jpg><img src="https://github.com/PhanVanHieu-Ptit/travelapp/blob/main2/m%C3%A0n%20h%C3%ACnh%20l%E1%BB%8Bch%20s%E1%BB%AD%20mua%20h%C3%A0n%20-%20%C4%91%C3%A3%20h%E1%BB%A7y.jpg" alt="Markdownify" width="200"></a>
+  <br>
+  Màn hình lịch sử đặt
+  <br>
+</h1>
