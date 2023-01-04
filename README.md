@@ -8,6 +8,8 @@
   + Thêm loại dịch vụ, dịch vụ
   + Quản lý dịch vụ: thêm các suất, chỉnh sửa, thêm xóa dịch vụ
 - Đối tượng sử dụng: Admin, đối tác và khách hàng
+- Link video demo: https://www.youtube.com/watch?v=qPXLUnt9Whc
+- Link backend: https://github.com/PhanVanHieu-Ptit/BE-travelapp-PTTKHT.git
 ## Hình ảnh app
 
 <h1 align="center">
